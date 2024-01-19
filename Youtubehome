@@ -36,6 +36,8 @@ line3.addWidget(rbtn6,alignment=Qt.AlignCenter)
 
 line.addLayout(line1)
 line.addLayout(line2)
+line.addLayout(line3)
+
 
 win.setLayout(line)
 
